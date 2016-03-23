@@ -5,15 +5,15 @@ KB article:
 [Custom error pages with Sitefinity MVC and Feather](http://www.sitefinity.com/developer-network/knowledge-base/details/custom-error-pages-with-sitefinity-mvc-and-feather "Custom error pages with Sitefinity MVC and Feather")
 
 Widget: 
-![alt text][logo]
+![alt text][img]
 
-[logo]: https://github.com/nzagorchev/Sitefinity.ErrorResponseMVCWidget/blob/master/widget.png "Widget"
+[img]: https://github.com/nzagorchev/Sitefinity.ErrorResponseMVCWidget/blob/master/widget.png "Widget"
 
 Designer: 
-![alt text][logo]
+![alt text][img1]
 
-[logo]: https://github.com/nzagorchev/Sitefinity.ErrorResponseMVCWidget/blob/master/designer.png "Designer"
+[img1]: https://github.com/nzagorchev/Sitefinity.ErrorResponseMVCWidget/blob/master/designer.png "Designer"
 
-![alt text][logo]
+![alt text][img2]
 
-[logo]: https://github.com/nzagorchev/Sitefinity.ErrorResponseMVCWidget/blob/master/designer_1.png "Designer 2"
+[img2]: https://github.com/nzagorchev/Sitefinity.ErrorResponseMVCWidget/blob/master/designer_1.png "Designer 2"
