@@ -1,0 +1,13 @@
+@model SitefinityWebApp.Mvc.Models.ErrorResponseViewModel
+
+<div>
+    @if (!Model.IsDefault)
+    {
+        <h1>
+            @Model.StatusMessage
+        </h1>
+        <p>
+            @Model.AdditionalInfo
+        </p>
+    }
+</div>

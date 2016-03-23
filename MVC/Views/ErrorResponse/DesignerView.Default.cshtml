@@ -1,0 +1,7 @@
+<div>
+    Error Status
+    <select class="form-control" ng-model="selectedOption" ng-change="selectOption(selectedOption)"
+        ng-options="option.Status for option in options track by option.Status">
+        <option disabled value="">Select an option</option>
+    </select>
+</div>
