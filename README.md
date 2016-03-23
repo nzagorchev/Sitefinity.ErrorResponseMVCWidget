@@ -7,13 +7,13 @@ KB article:
 Widget: 
 ![alt text][logo]
 
-[logo]: ../blob/master/widget.png "Widget"
+[logo]: https://github.com/nzagorchev/Sitefinity.ErrorResponseMVCWidget/blob/master/widget.png "Widget"
 
 Designer: 
 ![alt text][logo]
 
-[logo]: ../blob/master/designer.png "Designer"
+[logo]: https://github.com/nzagorchev/Sitefinity.ErrorResponseMVCWidget/blob/master/designer.png "Designer"
 
 ![alt text][logo]
 
-[logo]: ../blob/master/designer_1.png "Designer 2"
+[logo]: https://github.com/nzagorchev/Sitefinity.ErrorResponseMVCWidget/blob/master/designer_1.png "Designer 2"
